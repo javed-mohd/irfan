@@ -184,9 +184,16 @@
 	margin-top: 20px;
 	background-color: #F8FAFE;
 }
-.spa_exp
+.do_od
 {
 	margin-left: 14em;
+}
+.do_od_2
+{
+	margin-left: 21.4em !important;
+}
+.spa_exp
+{
 	font-size: 15px;
 	line-height: 16px;
 	color: #fff;
