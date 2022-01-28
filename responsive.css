@@ -11,8 +11,8 @@
  }
  .h-1
  {
-    font-size: 38px;
-    line-height: 45px;
+    font-size: 28px;
+    line-height: 28px;
  }
  .about_me
 {
@@ -21,9 +21,13 @@
 }
 .img_abt
 {
-    /*margin-left: 80px;*/
+   margin-left: 30px;
     width: 200px;
     height: 200px;
+}
+.type
+{
+    font-size: 30px !important;
 }
 .name
 {
@@ -35,18 +39,18 @@
 }
 .sp_1
 {
-    color: #042825; margin-left: 16em;
+    color: #042825; margin-left: 14.4em !important;
 }
 .sp_2
 {
-    color: #042825; margin-left: 16.1em;
+    color: #042825; margin-left: 14.5em;
 }
 .sp_3{
-    color: #042825; margin-left: 16em;
+    color: #042825; margin-left: 14.4em;
 }
 .sp_4
 {
-    color: #042825; margin-left: 16em;
+    color: #042825; margin-left: 14.4em;
 }
 .exp_edu h2
 {
@@ -55,19 +59,42 @@
 }
 .spa_exp
 {
-    margin-left: 4em;
+    margin-left: 2em;
 }
 .h6_exp
 {
     margin-top: 14px;
 }
+.sportz
+{
+    margin-top: -18px;
+}
+ .gur_uni
+ {
+    margin-top: -20px;
+ }
+ .arena_ani
+ {
+    margin-top: -20px;
+ }
+ {
+    padding-bottom: 50px;
+}
 .spa_gra
 {
-    margin-left: 2.4em;
+    margin-left: 9.4em;
+}
+.education
+{
+    margin-top: 30px;
+}
+.height_top
+{
+    height: auto !important;
 }
 .spa_2
 {
-    margin-left: 16em !important;
+    margin-left: 14em !important;
 }
 .non_non{
    display: block;
@@ -79,53 +106,49 @@
 {
     margin-left: 9.2em;
 }
-.mb_0
-{
-    margin-top: 0px !important;
-}
 .slider
 {
     display: none;
 }
 .la_padding
 {
-    margin-left: 11em;
+    margin-left: 16em;
 }
 .la_padding_1
 {
-    margin-left: 10.6em;
+    margin-left: 16.1em;
 }
 .la_padding_2
 {
-    margin-left: 13.5em;
+    margin-left: 16em;
 }
 .la_padding_3
 {
-    margin-left: 14em;
+    margin-left: 16em;
 }
 .la_padding_4
 {
-    margin-left: 11.5em;
+    margin-left: 16em;
 }
 .la_padding_5
 {
-    margin-left: 15.7em;
+    margin-left: 16em;
 }
 .la_padding_6
 {
-    margin-left: 16.6em;
+    margin-left: 16em;
 }
  .la_padding_java
  {
-    margin-left: 13.4em;
+    margin-left: 16em;
  }
  .la_padding_boots
  {
-    margin-left: 13.7em;
+    margin-left: 16em;
  }
  .la_padding_9
  {
-    margin-left: 14.7em;
+    margin-left: 16em;
  }
  .exp_edu .col_first
 {
