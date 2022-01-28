@@ -1,0 +1,138 @@
+@media only screen and (max-width: 600px)
+{
+.row_fir
+ {
+	padding-top: 6em;
+	padding-bottom: 4em;
+ }
+ .hero
+ {
+	height: auto;
+ }
+ .h-1
+ {
+    font-size: 38px;
+    line-height: 45px;
+ }
+ .about_me
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.img_abt
+{
+    /*margin-left: 80px;*/
+    width: 200px;
+    height: 200px;
+}
+.name
+{
+    margin-bottom: 40px;
+}
+.h_1
+{
+    font-size: 28px;
+}
+.sp_1
+{
+    color: #042825; margin-left: 16em;
+}
+.sp_2
+{
+    color: #042825; margin-left: 16.1em;
+}
+.sp_3{
+    color: #042825; margin-left: 16em;
+}
+.sp_4
+{
+    color: #042825; margin-left: 16em;
+}
+.exp_edu h2
+{
+    font-size: 32px;
+    line-height: 34px;
+}
+.spa_exp
+{
+    margin-left: 4em;
+}
+.h6_exp
+{
+    margin-top: 14px;
+}
+.spa_gra
+{
+    margin-left: 2.4em;
+}
+.spa_2
+{
+    margin-left: 16em !important;
+}
+.non_non{
+   display: block;
+}
+.non{
+    margin-top: 15px;
+}
+.non_2
+{
+    margin-left: 9.2em;
+}
+.mb_0
+{
+    margin-top: 0px !important;
+}
+.slider
+{
+    display: none;
+}
+.la_padding
+{
+    margin-left: 11em;
+}
+.la_padding_1
+{
+    margin-left: 10.6em;
+}
+.la_padding_2
+{
+    margin-left: 13.5em;
+}
+.la_padding_3
+{
+    margin-left: 14em;
+}
+.la_padding_4
+{
+    margin-left: 11.5em;
+}
+.la_padding_5
+{
+    margin-left: 15.7em;
+}
+.la_padding_6
+{
+    margin-left: 16.6em;
+}
+ .la_padding_java
+ {
+    margin-left: 13.4em;
+ }
+ .la_padding_boots
+ {
+    margin-left: 13.7em;
+ }
+ .la_padding_9
+ {
+    margin-left: 14.7em;
+ }
+ .exp_edu .col_first
+{
+    height: 220px;
+}
+.footer
+{
+    height: auto;
+}
+}
