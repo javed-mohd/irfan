@@ -14,6 +14,7 @@
 	}
 	.last_3{
 	  display: none !important;
+		opacity: 0px !important;
 	}
  .h-1
  {
