@@ -71,7 +71,7 @@
 {
     margin-top: 14px;
 }
-.sportz
+/* .sportz
 {
     margin-top: -18px;
 }
@@ -82,7 +82,7 @@
  .arena_ani
  {
     margin-top: -20px;
- }
+ } */
  {
     padding-bottom: 50px;
 }
@@ -102,6 +102,10 @@
 {
     margin-left: 14em !important;
 }
+do_od{
+	margin-top: 30px !important;
+	margin-left: ;
+	}
 .do_od_2
 {
     margin-left: 9.3em !important;
