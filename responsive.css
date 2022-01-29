@@ -10,7 +10,7 @@
 	height: auto;
  }
 	.ehfour{
-		display: block;
+		display: block !important;
 	}
 	.last_3{
 	  display: none !important;
