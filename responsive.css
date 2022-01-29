@@ -12,6 +12,9 @@
 	.ehfour{
 		display: block;
 	}
+	.last_3{
+	  display: none !important;
+	}
  .h-1
  {
     font-size: 28px;
