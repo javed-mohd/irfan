@@ -22,7 +22,7 @@
 	
 }
 .ehfour{
-	display: none;
+	display: none !important;
 }
 .hero .h__4
 {
