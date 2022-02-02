@@ -1,83 +1,85 @@
-*
-{
-	padding: 0px;
-	margin: 0px;
-}
+ * {
+      padding: 0px;
+      margin: 0px;
+   }
 .hero
 {
-	background-image: url(images/hero.png);
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	width: 100%;
-	height: 100vh;
+  background-image: url(images/hero.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
 }
 .ehfour
 {
-	font-family: "Barlow", sans-serif;
-	font-size: 20px;
-	color: #1F5152;
-	line-height: 20px;
-	text-decoration: underline;
-	
+    font-size: 15px;
+    width: auto;
+    font-family: "Barlow", sans-serif;
+    line-height: 16px;
+    color: #fff;
+    padding: 5px 10px 5px 10px;
+    background-color: #FF324D;
+    border-radius: 5px;
+  
 }
 .ehfour{
-	display: none !important;
+  display: none !important;
 }
 .hero .h__4
 {
-	font-family: "Barlow", sans-serif;
-	font-size: 22px;
-	line-height: 24px;
+  font-family: "Barlow", sans-serif;
+  font-size: 22px;
+  line-height: 24px;
 }
 .row_fir
 {
-	padding-top: 12em;
+  padding-top: 12em;
 }
 .h-1
 {
-	font-family: "Barlow", sans-serif !important;
-	font-size: 58px;
-	line-height: 60px;
-	color: #fff;
-	font-weight: bold;
+  font-family: "Barlow", sans-serif !important;
+  font-size: 58px;
+  line-height: 60px;
+  color: #fff;
+  font-weight: bold;
 }
 .type-2
 {
-	color: #FF324D !important;
+  color: #FF324D !important;
 }
 .h-5
 {
-	font-family: "Barlow", sans-serif;
-	font-size: 20px;
-	line-height: 20px;
-	color: #fff;
-	font-weight: normal;
-	padding-top: 20px;
+  font-family: "Barlow", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  color: #fff;
+  font-weight: normal;
+  padding-top: 20px;
 }
 .btn-4
 {
-	font-family: "Barlow", sans-serif;
-	font-size: 18px;
-	font-weight: normal;
-	color: #fff;
-	background-color: #FF324D;
-	border: none;
-	padding: 12px 30px 12px 30px;
-	margin-top: 12px;
+  font-family: "Barlow", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: #fff;
+  background-color: #FF324D;
+  border: none;
+  padding: 12px 30px 12px 30px;
+  margin-top: 12px;
 }
 .btn-4:hover
 {
-	 background-color: #1F5152;
-	 transition-duration: .5s;
+   background-color: #1F5152;
+   transition-duration: .5s;
 }
 .spa_name
 {
-	color: #FF324D;
-	letter-spacing: 1.5px;
-	text-decoration: underline;
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
+  color: #FF324D;
+  letter-spacing: 1.5px;
+  text-decoration: underline;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
 }
 
 /*....................hero blog close////////////////*/
@@ -85,44 +87,44 @@
 
 .about_me
 {
-	padding-top: 110px;
-	padding-bottom: 110px;
+  padding-top: 110px;
+  padding-bottom: 110px;
 }
 .sp_1
 {
-	color: #042825; margin-left: 32em;
+  color: #042825; margin-left: 32em;
 }
 .sp_2
 {
-	color: #042825; margin-left: 30.7em;
+  color: #042825; margin-left: 30.7em;
 }
 .sp_3{
-	color: #042825; margin-left: 32.6em;
+  color: #042825; margin-left: 32.6em;
 }
 .sp_4
 {
-	color: #042825; margin-left: 33.2em;
+  color: #042825; margin-left: 33.2em;
 }
 .img_abt
 {
-	width: 280px;
-	height: 280px;
-	border-radius: 100%;
+  width: 280px;
+  height: 280px;
+  border-radius: 100%;
 }
 .h_6
 {
-	font-size: 18px;
-	line-height: 18px;
-	letter-spacing: 1px;
-	color: #FF324D;
-	font-family: "Barlow", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 1px;
+  color: #FF324D;
+  font-family: "Barlow", sans-serif;
 }
 .h_1
 {
-	color: #1F5152;
-	font-family: 'Barlow', sans-serif;
-	font-weight: 700;
-	font-size: 34px;
+  color: #1F5152;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 700;
+  font-size: 34px;
 }
 .about_me p{
     font-family: "Barlow", sans-serif;
@@ -134,40 +136,40 @@
 }
 .name
 {
-	padding-top: 30px;
+  padding-top: 30px;
 }
 .h_name
 {
-	color: #FF324D;
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 16px;
-	line-height: 16px;
+  color: #FF324D;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
 }
 .sp_name
 {
-	color: #042825;
-	font-family: "Barlow", sans-serif;
-	font-weight: normal;
-	padding-left: 15px !important;
-	letter-spacing: 0px;
+  color: #042825;
+  font-family: "Barlow", sans-serif;
+  font-weight: normal;
+  padding-left: 15px !important;
+  letter-spacing: 0px;
 }
  label
 {
-	font-family: "Barlow", sans-serif;
+  font-family: "Barlow", sans-serif;
     font-style: normal;
     font-size: 18px;
     font-weight: 500;
-	color: #042825;
+  color: #042825;
 }
 .lable_1
 {
-	margin-top: 20px;
-	font-family: "Barlow", sans-serif;
+  margin-top: 20px;
+  font-family: "Barlow", sans-serif;
     font-style: normal;
     font-size: 18px;
     font-weight: 500;
-	color: #042825;
+  color: #042825;
 }
 /*<!-- ....................close about blog............. -->
 <!-- ....................close about blog............. -->*/
@@ -175,97 +177,95 @@
 
 .exp_edu
 {
-	 padding: 30px 0px 30px 0px !important;
-	 border-top: 1px solid #687188;
+   padding: 30px 0px 30px 0px !important;
+   border-top: 1px solid #687188;
 }
 .exp_edu h2
 {
-	font-family: "Barlow", sans-serif;
-	color: #1F5152;
-	font-size: 38px;
-	line-height: 40px;
-	font-weight: bold;
+  font-family: "Barlow", sans-serif;
+  color: #1F5152;
+  font-size: 38px;
+  line-height: 40px;
+  font-weight: bold;
 }
 .exp_edu .col-md-12
 {
-	width: 100%;
-	padding: 20px 0px 12px 25px;
-	height: 170px;
-	border-radius: 5px;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	background-color: #F8FAFE;
+  width: 100%;
+  padding: 20px 15px;
+  height: 170px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #F8FAFE;
 }
 .do_od
 {
-	margin-left: 14em;
+  margin-left: 14em;
 }
 .do_od_2
 {
-	margin-left: 21.4em !important;
+  margin-left: 21.4em !important;
+  margin-top: 0px;
 }
 .spa_exp
 {
-	font-size: 15px;
-	line-height: 16px;
-	color: #fff;
-	padding: 5px 10px 5px 10px;
-	background-color: #FF324D;
-	border-radius: 5px;
+  font-size: 15px;
+  line-height: 16px;
+  color: #fff;
+  padding: 5px 10px 5px 10px;
+  background-color: #FF324D;
+  border-radius: 5px;
 }
 .spa_edu
 {
-	margin-left: 16em !important;
+  margin-left: 16em !important;
 }
 .col_first
 {
-	margin-top: 30px !important;
+  margin-top: 30px !important;
 }
 .exp_edu h5
 {
-	color: #042825;
-	font-family: "Barlow", sans-serif;
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 22px;
+  color: #042825;
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 22px;
 }
 .non_non{
-	display: flex;
+  display: flex;
 }
 .spa_2
 {
-	margin-left: 7em !important;
+  margin-left: 7em !important;
 }
 .spa_3
 {
-	margin-left: 6em;
+  margin-left: 6em;
 }
-.spa_gra
-{
-	margin-left: 12em;
-}
+ 
 .spa_do
 {
-	margin-left: 7.5em;
+  margin-left: 7.5em;
 }
 .h6_exp
 {
-	color: #042825;
-	font-family: "Barlow", sans-serif;
-	font-weight: 500;
-	font-size: 13px;
-	line-height: 13px;
+  color: #042825;
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 13px;
 }
 .h6_edu
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: 500;
-	font-size: 16px;
-	line-height: 17px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
 }
 .h6_edu_2
 {
-	margin-left: ;
+  margin-left: ;
 }
 .exp_edu p{
     font-family: "Barlow", sans-serif;
@@ -280,46 +280,46 @@
 <!-- .................close............... -->*/
 .skills
 {
-	padding-top: 30px;
-	padding-bottom: 100px;
+  padding-top: 30px;
+  padding-bottom: 100px;
 }
 .skills h2
 {
-	font-family: "Barlow", sans-serif;
-	margin-bottom: 30px;
-	color: #1F5152;
-	font-size: 38px;
-	line-height: 40px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
+  font-family: "Barlow", sans-serif;
+  margin-bottom: 30px;
+  color: #1F5152;
+  font-size: 38px;
+  line-height: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
 }
 /*<!-- ..........close skills.................. -->
 <!-- ..........close skills.................. -->*/
 
 .services
 {
-	padding-top: 30px;
-	padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 .services h6
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 14px;
-	line-height: 16px;
-	color: #FF324D;
-	text-align: center;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FF324D;
+  text-align: center;
 }
 .services h2
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 40px;
-	color: #1F5152;
-	text-align: center;
-	text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 40px;
+  color: #1F5152;
+  text-align: center;
+  text-transform: uppercase;
 }
 .services .card{
     padding: 120px 50px 120px 50px;
@@ -334,16 +334,16 @@
 }
 .code_icon
 {
-	font-size: 40px;
-	text-align: center !important;
+  font-size: 40px;
+  text-align: center !important;
 }
 .first_card
 {
-	margin-top: 4em;
+  margin-top: 4em;
 }
 .sec_card
 {
-	margin-top: 34px;
+  margin-top: 34px;
 }
 .services h4{
    font-family: "Barlow", sans-serif;
@@ -362,50 +362,50 @@
 
 .work_process
 {
-	width: 100%;
-	text-align: center !important;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	background-color: #F8FAFE;
+  width: 100%;
+  text-align: center !important;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #F8FAFE;
 }
 .work_process h2
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 40px;
-	color: #1F5152;
-	text-align: center;
-	text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 40px;
+  color: #1F5152;
+  text-align: center;
+  text-transform: uppercase;
 }
 .work_process .col-md-3
 {
-	margin-top: 50px;
+  margin-top: 50px;
 }
 .work_process .card{
-	width: 120px;
-	height: 120px;
-	margin-left: auto;
-	margin-right: auto;
-	border-radius: 100%;
-	border: 2px solid #FF324D;
+  width: 120px;
+  height: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  border: 2px solid #FF324D;
 }
 .work_process .active
 {
-	background-color: #FF324D;
+  background-color: #FF324D;
 }
 .work_process .card p
 {
-	margin: auto !important;
-	font-family: "Barlow", sans-serif;
-	font-size: 32px;
-	line-height: 34px;
-	font-weight: 700;
-	color: #FF324D;
+  margin: auto !important;
+  font-family: "Barlow", sans-serif;
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
+  color: #FF324D;
 }
 .active_p
 {
-	color: #fff !important;
+  color: #fff !important;
 }
 .work_process h6{
    font-family: "Barlow", sans-serif;
@@ -417,12 +417,12 @@
 }
 .slider
 {
-	width: 80% !important;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: -240px !important;
-	height: 2px;
-	background-color: #FF324D;
+  width: 80% !important;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -240px !important;
+  height: 2px;
+  background-color: #FF324D;
 }
 .work_process .card:hover .work_process .active
 {
@@ -430,16 +430,16 @@
 }
 .work_process .card:hover
 {
-	background-color: #FF324D;
-	transition-duration: .2s;
-	cursor: pointer;
+  background-color: #FF324D;
+  transition-duration: .2s;
+  cursor: pointer;
 }
 .work_process .card:hover p
 {
-	color: #fff !important;
+  color: #fff !important;
 }
 .work_process p{
-	font-family: "Barlow", sans-serif;
+  font-family: "Barlow", sans-serif;
     font-style: normal;
     font-size: 17px;
     line-height: 1.6;
@@ -451,35 +451,35 @@
 <!-- ..............close plane blog.............. -->*/
 .contact_us
 {
-	padding-top: 30px;
-	padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 .contact_us h2
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 38px;
-	margin-top: 20px;
-	line-height: 40px;
-	color: #1F5152;
-	text-align: center;
-	text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 38px;
+  margin-top: 20px;
+  line-height: 40px;
+  color: #1F5152;
+  text-align: center;
+  text-transform: uppercase;
 }
 .progress_pro
 {
-	width: 50px;
-	height: 50px;
-	border-radius: 100%;
-	background-color: #FF324D;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background-color: #FF324D;
 }
 .contact_us .col_4
 {
-	padding: 30px 20px 30px 20px;
-	border: 1px solid #d6d6d6;
+  padding: 30px 20px 30px 20px;
+  border: 1px solid #d6d6d6;
 }
 .ml_3
 {
-	margin: 6px 0px 0px 20px;
+  margin: 6px 0px 0px 20px;
 }
 .contact_us .col_4 .co_h6{
    font-family: "Barlow", sans-serif;
@@ -490,7 +490,7 @@
    color: #042825;
 }
 .contact_us .col_4 p{
-	font-family: "Barlow", sans-serif;
+  font-family: "Barlow", sans-serif;
     font-style: normal;
     font-size: 17px;
     margin-top: -6px;
@@ -499,52 +499,66 @@
 }
 .contact_us .row
 {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 .mt_0
 {
-	margin-top: 0px !important;
+  margin-top: 0px !important;
 }
 .contact_us .col-md-12
 {
-	margin-top: 25px !important;
+  margin-top: 25px !important;
 }
 .contact_us .co_icon{
-	margin-top: 15px;
-	color: #fff;
+  margin-top: 15px;
+  color: #fff;
+}
+.inp_1_1
+{
+  width: 45%;
 }
 .contact_us .mt_43
 {
-	margin-top: 25px;
+  margin-top: 25px;
+}
+#w3review
+{
+  min-height: 70px;
+  max-height: 170px;
 }
 .contact_us .inp_1
 {
-	border: 1px solid #ced4da;
-	padding: 16px 0px 16px 20px;
-	font-family: "Barlow", sans-serif;
-	font-weight: 500;
-	font-size: 15px;
-	line-height: 16px;
-	color: #687188;
+  border: 1px solid #ced4da;
+  padding: 16px 0px 16px 20px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  box-shadow: unset !important;
+  font-size: 15px;
+  line-height: 16px;
+  color: #687188;
 }
 .contact_us .inp_2
 {
-	border: 1px solid #ced4da;
-	padding: 16px 0px 16px 20px;
-	font-family: "Barlow", sans-serif;
-	font-weight: 500;
-	font-size: 15px;
-	line-height: 16px;
-	margin-left: 15px;
-	color: #687188;
+  border: 1.5px solid #ced4da;
+  padding: 16px 0px 16px 20px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 16px;
+  margin-left: 15px;
+  color: #687188;
 }
 .otp
 {
-	margin-top: 40px;
+  margin-top: 65px;
+}
+.small
+{
+  box-shadow: unset;
 }
 .contact_us .small:focus
 {
-	border: 2px solid red!important;
+  border: 1.5px solid red!important;
 }
 
 
@@ -552,34 +566,34 @@
 <!-- ................close contact blog.............. -->*/
 .footer
 {
-	padding-top: 40px;
-	padding-bottom: 30px;
-	width: 100%;
-	height: 120px;
-	background-color: #DEE8F9;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  width: 100%;
+  height: 120px;
+  background-color: #DEE8F9;
 }
 .footer h2
 {
-	font-family: "Barlow", sans-serif;
-	font-weight: bold;
-	font-size: 26px;
-	line-height: 28px;
-	color: black;
-	text-align: center;
-	text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 28px;
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
 }
 .footer a{
-	font-family: "Barlow", sans-serif;
-	font-size: 26px;
-	color: black;
-	line-height: 28px;
-	font-weight: 600;
-	text-decoration: none;
+  font-family: "Barlow", sans-serif;
+  font-size: 26px;
+  color: black;
+  line-height: 28px;
+  font-weight: 600;
+  text-decoration: none;
 }
 .footer a:hover{
-	color: black;
+  color: black;
 }
 .icon_footer
 {
-	margin-left: 12px;
+  margin-left: 12px;
 }
