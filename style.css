@@ -2,6 +2,21 @@
       padding: 0px;
       margin: 0px;
    }
+   .header {
+     background-color: #fff !important;
+     display: flex;
+     justify-content:  safe right;
+   }
+   .img_fluid_1 {
+    width: 80px;
+    height: auto;
+   }
+   .justify_center
+   {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20em;
+   }
 .hero
 {
   background-image: url(images/hero.png);
@@ -13,7 +28,10 @@
 }
 .ehfour
 {
-    font-size: 15px;
+    font-size: 15auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 20px 20px;
     width: auto;
     font-family: "Barlow", sans-serif !important;
     line-height: 16px;
@@ -28,7 +46,7 @@
 }
 .b_hire
 {
-  margin-right: 16px;
+  border-radius: 5px;
 }
 .hero .h__4
 {
