@@ -2,21 +2,6 @@
       padding: 0px;
       margin: 0px;
    }
-   .header {
-     background-color: #fff !important;
-     display: flex;
-     justify-content:  safe right;
-   }
-   .img_fluid_1 {
-    width: 80px;
-    height: auto;
-   }
-   .justify_center
-   {
-    display: flex;
-    justify-content: space-between;
-    margin-left: 20em;
-   }
 .hero
 {
   background-image: url(images/hero.png);
